@@ -2,7 +2,7 @@
 This repository will contain all the .ipynb files I used with Microsoft Azure for my Global AI Night 2021 Event presentation. 
 
 # What I presented
-I presented a simple and commonly used to teach example - The MNIST Dataset Image Classification Tutorial with Microsoft Azure's Machine Learning Platform
+I presented a simple and commonly used to teach Image Classification example using the MNIST Dataset - **Image Classification with ML**
 
 My presentation consisted of:
 1.  **Introduction**
