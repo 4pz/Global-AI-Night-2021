@@ -4,7 +4,18 @@ This repository will contain all the .ipynb files I used with Microsoft Azure fo
 # What I presented
 I presented a simple and commonly used to teach example - The MNIST Dataset Image Classification Tutorial with Microsoft Azure's Machine Learning Platform
 
-My presentation consisted of an Introduction - Why is AI the Future? - Examples of how AI Will Benefit the Future - Real Life Artificial Intelligence Solutions - Demonstration of Image Classification Project With Microsoft Azure Machine Learning Platform
+My presentation consisted of:
+1.  **Introduction**
+  
+2.  **Existing Image Classification Solutions**
+  
+3.  **Making an Image Classification App**
+  
+4.  **Microsoft Azure ML Platform**
+  
+5.  **Image Classification Demo**
+    
+6.  **Recap**
 
 # Resources
 [Use Microsoft Azure](https://azure.microsoft.com/en-us/)<br>
