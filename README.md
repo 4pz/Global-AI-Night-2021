@@ -19,4 +19,4 @@ My presentation consisted of:
 
 # Resources
 [Use Microsoft Azure](https://azure.microsoft.com/en-us/)<br>
-Watch my Presentation - Link Coming Soon!
+[Watch my Presentation](https://youtu.be/1k1Hm5agWjg)
